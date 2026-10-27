@@ -4,3 +4,5 @@ Two single-file browser games, each written by Claude Code from the same one-par
 
 - `opus/index.html` (Claude Opus 5.5, about 15 min)
 - `haiku/index.html` (Claude Haiku 5.5, about 8 min)
+
+Video: https://youtu.be/SPkGAQPcSFk
